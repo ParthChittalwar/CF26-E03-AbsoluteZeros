@@ -11,7 +11,7 @@ export interface RecommendationSummary {
   costCr: number;
   decisionScore: number;
   expectedDamageCr: number;
-}
+} 
 
 export interface SimulationDocument extends Document {
   type: "single" | "recommendation";

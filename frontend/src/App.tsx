@@ -8,7 +8,7 @@ import {
   recommendStrategy,
   runSensitivityAnalysis,
   apiErrorMessage,
-} from "./api/client";
+} from "./api/client"; 
 
 import Header from "./components/Header";
 import TelemetryBar from "./components/TelemetryBar";
